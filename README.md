@@ -14,8 +14,8 @@ Lab49 engineer Andrew Burkus takes us through this quick introduction on to how 
 **Presenters:** Andrew Burkus  
 
 ### Links
-**YouTube:** https://youtu.be/2I8NevAMgxE
-**Twitter:**  https://twitter.com/lab49eng/status/1512097377171214336  
+**YouTube:** https://youtu.be/2I8NevAMgxE  
+**Twitter:**  https://twitter.com/lab49eng/status/1512097377171214336    
 **LinkedIn:** https://www.linkedin.com/posts/brian-wm-mcallister_lab49-techtalk-introduction-to-elasticsearch-activity-6917863564879781889-20dX?utm_source=linkedin_share&utm_medium=member_desktop_web  
 
 <br />
